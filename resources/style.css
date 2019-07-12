@@ -301,14 +301,14 @@ footer ul li {
   .learning {
     width: 980px;
   }
-@media only screen and (min-width: 891px) {
+@media only screen and (min-width: 1024px) {
   .info-image-mobile,
   .mobile-nav,
   .learning-mobile {
     display: none;
   }
 }
-@media only screen and (max-width: 891px) {
+@media only screen and (max-width: 1023px) {
   h1 {
     font-size: 2.5rem;
   }
@@ -403,7 +403,7 @@ footer ul li {
     margin-top: -90px;
   }
 }
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 807px) {
   h1 {
     font-size: 2.5rem;
   }
