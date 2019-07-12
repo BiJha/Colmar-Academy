@@ -301,6 +301,7 @@ footer ul li {
   .learning {
     width: 980px;
   }
+}
 @media only screen and (min-width: 1024px) {
   .info-image-mobile,
   .mobile-nav,
