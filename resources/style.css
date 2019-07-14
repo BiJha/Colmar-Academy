@@ -145,7 +145,7 @@ nav ul li {
 .info {
   border-bottom: 1px solid #ccc;
   padding: 0.65rem 0;
-  margin-bottom: 1rem;
+  /*margin-bottom: 1rem;*/
 }
 
 .info a {
@@ -246,7 +246,7 @@ nav ul li {
 .exhibit {
   border-bottom: 1px solid #fff;
   padding: 0.65rem 0;
-  margin-bottom: 1.5rem;
+  /*margin-bottom: 1.5rem;*/
 }
 
 .exhibit-image img {
