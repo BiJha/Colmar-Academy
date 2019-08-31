@@ -158,6 +158,7 @@ nav ul li {
 
 .info-content:hover {
   color: #1d741b;
+  cursor: pointer;
 }
 .information .left {
   border-right: 1px solid #ccc;
@@ -262,6 +263,7 @@ nav ul li {
 }
 .exhibit-content:hover {
   color: #b175ff;
+  cursor: pointer;
 }
 .exhibit-content p {
   margin-bottom: 1rem;
